@@ -59,3 +59,6 @@ Melalui pengembangan proyek ini, konsep bisnis dan keterampilan pengembangan web
 # Mengubah Ide Menjadi Peluang, Menciptakan Inovasi, dan Membangun Bisnis yang Berkelanjutan.
 
 # Turning Ideas into Opportunities, Creating Innovation, and Building Sustainable Businesses.
+
+# preview
+<img width="1891" height="961" alt="Screenshot 2026-11-25 153527" src="https://github.com/user-attachments/assets/3d4c2841-53ab-45e6-a711-700492a53d1b" />

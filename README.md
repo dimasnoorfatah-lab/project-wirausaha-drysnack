@@ -11,3 +11,42 @@ Dosen Pembimbing:
 
 Prof. Dr. Retno Purwani Setyaningrum, S.E., M.M.
 # UNIVERSITAS PELITA BANGSA 
+
+# DrySnack - Digital Business Website
+
+# Tentang Proyek
+DrySnack merupakan proyek pengembangan website bisnis digital di bidang makanan ringan (dry snack) yang dibuat sebagai bagian dari tugas mata kuliah Kewirausahaan. Proyek ini bertujuan untuk membangun kehadiran bisnis secara digital melalui website yang informatif, menarik, dan mudah diakses oleh calon pelanggan.
+
+Website DrySnack dirancang sebagai media untuk memperkenalkan identitas bisnis, menampilkan informasi produk, serta mendukung kegiatan promosi secara online. Dengan memanfaatkan teknologi digital, DrySnack berupaya menghadirkan cara yang lebih praktis bagi masyarakat untuk mengenal produk makanan ringan yang ditawarkan.
+
+Proyek ini menjadi bentuk penerapan teknologi informasi dalam dunia kewirausahaan, khususnya dalam memanfaatkan website sebagai sarana untuk mengembangkan dan memperkenalkan bisnis kepada masyarakat luas.
+
+#Tujuan Pembuatan Website
+Tujuan utama pengembangan website DrySnack adalah memanfaatkan teknologi digital untuk mendukung kegiatan pemasaran dan memperkuat identitas bisnis di tengah perkembangan teknologi yang semakin pesat.
+
+Adapun tujuan khusus dari proyek ini meliputi:
+- Media Promosi Digital: Menyediakan platform online untuk memperkenalkan produk DrySnack kepada calon pelanggan.
+- Pengenalan Produk: Membantu pengunjung memperoleh informasi mengenai produk makanan ringan yang ditawarkan.
+- Penguatan Identitas Merek: Membangun citra bisnis yang konsisten melalui penyajian informasi dan tampilan website yang profesional.
+- Kemudahan Akses Informasi: Memungkinkan calon pelanggan mengenal bisnis dan produknya melalui perangkat yang terhubung ke internet.
+- Penerapan Kewirausahaan Digital: Mengimplementasikan pemanfaatan teknologi website sebagai bagian dari strategi pengembangan bisnis modern.
+  
+# Konsep Bisnis
+DrySnack mengusung konsep bisnis makanan ringan yang memanfaatkan platform digital sebagai sarana untuk memperkenalkan produk dan menjangkau calon pelanggan. Website menjadi bagian dari upaya membangun identitas
+bisnis yang lebih terstruktur sekaligus mendukung proses pemasaran di era digital.
+
+Dalam penerapannya, website berfungsi sebagai media informasi yang menghubungkan bisnis dengan calon pelanggan. Penyajian informasi produk secara jelas dan terorganisasi diharapkan dapat membantu pengunjung mengenal produk sebelum mempertimbangkan pembelian.
+
+Konsep ini juga memberikan peluang bagi DrySnack untuk mengembangkan strategi pemasaran digital secara bertahap sesuai dengan kebutuhan bisnis dan perkembangan perilaku konsumen.
+
+# Manfaat Website
+Pengembangan website DrySnack diharapkan memberikan manfaat bagi bisnis maupun calon pelanggan.
+
+Bagi bisnis, website dapat menjadi media promosi yang membantu memperkenalkan merek, menyajikan informasi produk secara terpusat, dan memperkuat kehadiran bisnis di internet. Website juga dapat menjadi fondasi untuk pengembangan layanan digital pada masa mendatang.
+
+Bagi pelanggan, website dapat mempermudah akses terhadap informasi bisnis dan produk makanan ringan. Informasi yang disajikan secara terstruktur membantu pengunjung mengenal produk dengan lebih mudah tanpa harus bergantung sepenuhnya pada promosi secara langsung.
+
+# Peran Teknologi dalam Proyek
+Pemanfaatan teknologi website dalam proyek DrySnack merupakan bentuk penerapan teknologi informasi untuk mendukung kegiatan kewirausahaan. Website tidak hanya berfungsi sebagai media penyampaian informasi, tetapi juga menjadi sarana untuk membangun citra merek dan memperluas peluang pemasaran.
+
+Melalui pengembangan proyek ini, konsep bisnis dan keterampilan pengembangan website dipadukan untuk menghasilkan sebuah platform digital yang relevan dengan kebutuhan usaha. Proyek ini diharapkan dapat menjadi dasar pengembangan bisnis yang lebih modern, adaptif, dan mampu mengikuti perkembangan teknologi.

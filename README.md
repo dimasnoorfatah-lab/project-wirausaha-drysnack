@@ -63,4 +63,4 @@ Melalui pengembangan proyek ini, konsep bisnis dan keterampilan pengembangan web
 # preview
 <img width="1891" height="961" alt="Screenshot 2026-11-25 153527" src="https://github.com/user-attachments/assets/3d4c2841-53ab-45e6-a711-700492a53d1b" />
 <img width="1887" height="946" alt="Screenshot 2026-11-25 153537" src="https://github.com/user-attachments/assets/a63bb6e5-a9ab-457c-abc5-bbfce989c6c5" />
-
+<img width="1894" height="951" alt="Screenshot 2026-11-25 153551" src="https://github.com/user-attachments/assets/5bb7f119-1225-4aa1-964b-16f1f3de507b" />

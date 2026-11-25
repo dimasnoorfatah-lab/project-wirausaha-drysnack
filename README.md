@@ -1,4 +1,4 @@
-# dentitas Kelompok
+# identitas kelompok
 Proyek website DrySnack disusun oleh Kelompok 1 untuk memenuhi tugas mata kuliah Kewirausahaan di bawah bimbingan dosen pengampu.
 
 Anggota Kelompok 1:

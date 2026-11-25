@@ -1,4 +1,4 @@
-##dentitas Kelompok
+# dentitas Kelompok
 Proyek website DrySnack disusun oleh Kelompok 1 untuk memenuhi tugas mata kuliah Kewirausahaan di bawah bimbingan dosen pengampu.
 
 Anggota Kelompok 1:
@@ -10,4 +10,4 @@ Anggota Kelompok 1:
 Dosen Pembimbing:
 
 Prof. Dr. Retno Purwani Setyaningrum, S.E., M.M.
-##UNIVERSITAS PELITA BANGSA
+# UNIVERSITAS PELITA BANGSA 

@@ -1,1 +1,7 @@
-export default { logoUrl: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663558807036/BVOYKmEzVWnlQoes.svg" };
+export const maxDuration = 300;
+
+export default {
+  logoUrl:
+    "https://files.manuscdn.com/user_upload_by_module/session_file/310519663558807036/BVOYKmEzVWnlQoes.svg",
+  maxDuration: 300,
+};

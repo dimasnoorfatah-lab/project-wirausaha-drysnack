@@ -49,4 +49,13 @@ Bagi pelanggan, website dapat mempermudah akses terhadap informasi bisnis dan pr
 # Peran Teknologi dalam Proyek
 Pemanfaatan teknologi website dalam proyek DrySnack merupakan bentuk penerapan teknologi informasi untuk mendukung kegiatan kewirausahaan. Website tidak hanya berfungsi sebagai media penyampaian informasi, tetapi juga menjadi sarana untuk membangun citra merek dan memperluas peluang pemasaran.
 
+Kesimpulan
+DrySnack merupakan proyek website bisnis digital yang berfokus pada pemanfaatan teknologi untuk mendukung promosi dan pengenalan usaha makanan ringan. Melalui website ini, bisnis diharapkan dapat membangun identitas merek, menyediakan akses informasi produk, serta meningkatkan peluang untuk menjangkau calon pelanggan melalui media digital.
+
+Secara keseluruhan, proyek DrySnack menunjukkan bagaimana teknologi website dapat dimanfaatkan sebagai bagian dari strategi kewirausahaan modern, sekaligus menjadi sarana penerapan pengetahuan teknologi informasi dalam pengembangan ide bisnis.
+
 Melalui pengembangan proyek ini, konsep bisnis dan keterampilan pengembangan website dipadukan untuk menghasilkan sebuah platform digital yang relevan dengan kebutuhan usaha. Proyek ini diharapkan dapat menjadi dasar pengembangan bisnis yang lebih modern, adaptif, dan mampu mengikuti perkembangan teknologi.
+
+# Mengubah Ide Menjadi Peluang, Menciptakan Inovasi, dan Membangun Bisnis yang Berkelanjutan.
+
+# Turning Ideas into Opportunities, Creating Innovation, and Building Sustainable Businesses.

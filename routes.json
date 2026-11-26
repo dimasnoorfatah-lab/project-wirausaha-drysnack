@@ -1,1 +1,12 @@
-{"routes":[{"path":"/","title":"Drysnack — Camilan Kering Pilihan"}]}
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "path": "/",
+      "title": "Drysnack — Camilan Kering Pilihan"
+    }
+  ]
+}

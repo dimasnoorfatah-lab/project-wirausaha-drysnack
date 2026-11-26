@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f4f0e6" />
+  <meta name="description"
+    content="Temukan pilihan camilan kering Drysnack untuk menemani waktu santai, bekerja, atau berkumpul." />
+  <title>Drysnack — Pilihan Camilan untuk Waktu Jeda</title>
+  <link rel="icon" type="image/svg+xml" href="./public/drysnack-mark.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <div class="announcement"><span>Rasa pilihan, untuk menemani setiap jeda.</span><a href="#menu">Jelajahi koleksi
+      <b>↘</b></a></div>
+  <header class="site-header" id="top">
+    <a class="brand" href="#top" aria-label="Drysnack — beranda"><span class="brand-mark">D</span><span>drysnack<span
+          class="brand-dot">.</span></span></a>
+    <nav class="main-nav" aria-label="Navigasi utama">
+      <a href="#top">Beranda</a><a href="#menu">Koleksi</a><a href="#cerita">Tentang kami</a>
+    </nav>
+    <div class="header-actions">
+      <a class="header-search-link" href="#menu" aria-label="Cari camilan"><span>⌕</span><span class="search-label">Cari
+          produk</span></a>
+      <button class="basket-trigger cart-button" aria-label="Buka keranjang"><span class="cart-icon"
+          aria-hidden="true">▱</span><span class="cart-button-label">Keranjang</span><span
+          class="cart-count">0</span></button>
+    </div>
+    <button class="mobile-menu" aria-label="Buka navigasi" aria-expanded="false">☰</button>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-line"></span> CAMILAN PILIHAN DRYSNACK</p>
+        <h1 id="hero-title">Rasa yang pas<br /><em>untuk waktu jeda.</em></h1>
+        <p class="hero-description">Temukan keripik dan camilan kering untuk menemani waktu santai, bekerja, atau
+          berkumpul.</p>
+        <div class="hero-actions"><a class="button button-primary" href="#menu">Lihat koleksi <span>↗</span></a><a
+            class="hero-secondary" href="#cerita">Kenali Drysnack <span>↓</span></a></div>
+        <p class="hero-note">Dibuat dengan sepenuh hati, bukan asal renyah.</p>
+      </div>
+      <div class="hero-art">
+        <div class="hero-art-frame"><img src="./images/hero.jpg"
+            alt="Aneka keripik kering tersaji dalam mangkuk" fetchpriority="high" /></div>
+        <div class="hero-art-label"><span>KOLEKSI / 01</span><span>Keripik pilihan Drysnack</span></div>
+        <span class="hero-seal">DIBUAT<br />DENGAN<br /><b>RASA</b></span>
+      </div>
+    </section>
+
+    <section class="benefit-strip" aria-label="Keunggulan Drysnack">
+      <div><span class="benefit-mark">01</span>
+        <p><b>Rasa beragam</b><small>Manis, gurih, dan pedas.</small></p>
+      </div>
+      <div><span class="benefit-mark">02</span>
+        <p><b>Camilan praktis</b><small>Mudah dinikmati kapan saja.</small></p>
+      </div>
+      <div><span class="benefit-mark">03</span>
+        <p><b>Pas untuk berbagi</b><small>Teman santai bersama orang terdekat.</small></p>
+      </div>
+    </section>
+
+    <section class="catalog" id="menu">
+      <div class="catalog-intro">
+        <div>
+          <p class="eyebrow"><span class="eyebrow-line"></span> KOLEKSI CAMILAN</p>
+          <h2>Temukan yang<br /><em>kamu suka.</em></h2>
+        </div>
+        <p>Jelajahi pilihan rasa, lalu temukan camilan yang cocok untuk menemani harimu.</p>
+      </div>
+      <div class="shop-layout">
+        <aside class="filter-panel" aria-label="Filter produk">
+          <div class="filter-heading">
+            <h3>Kategori</h3><span id="filter-count">05 pilihan</span>
+          </div>
+          <div class="category-row" role="group" aria-label="Pilih kategori camilan">
+            <button class="category-chip active" data-category="Semua" aria-pressed="true"><span>Semua
+                camilan</span><span class="chip-count">05</span></button>
+            <button class="category-chip" data-category="Favorit" aria-pressed="false"><span>Unggulan</span><span
+                class="chip-count">02</span></button>
+            <button class="category-chip" data-category="Gurih" aria-pressed="false"><span>Gurih</span><span
+                class="chip-count">02</span></button>
+            <button class="category-chip" data-category="Manis" aria-pressed="false"><span>Manis</span><span
+                class="chip-count">01</span></button>
+            <button class="category-chip" data-category="Pedas" aria-pressed="false"><span>Pedas</span><span
+                class="chip-count">02</span></button>
+          </div>
+          <div class="filter-note"><span>?</span>
+            <p><b>Belum yakin memilih?</b><br />Mulai dari camilan yang paling banyak disukai.</p>
+          </div>
+        </aside>
+        <div class="shop-content">
+          <div class="shop-toolbar">
+            <label class="search-box"><span aria-hidden="true">⌕</span><input id="product-search" type="search"
+                placeholder="Cari nama camilan" aria-label="Cari nama camilan" /><kbd>/</kbd></label>
+            <label class="sort-control"><span>Urutkan:</span><select id="sort-products" aria-label="Urutkan produk">
+                <option value="featured">Pilihan kami</option>
+                <option value="price-low">Harga terendah</option>
+                <option value="price-high">Harga tertinggi</option>
+                <option value="name">Nama A–Z</option>
+              </select></label>
+          </div>
+          <div class="results-line"><span id="catalog-count">05 pilihan camilan</span><span>Harga dalam rupiah</span>
+          </div>
+          <div class="product-grid" id="product-grid" aria-live="polite"></div>
+          <button class="text-link" id="more-products">Atur ulang pilihan <span>↺</span></button>
+        </div>
+      </div>
+    </section>
+
+    <section class="promo" id="promo">
+      <div class="promo-copy">
+        <p class="eyebrow light"><span class="eyebrow-line"></span> PILIHAN MINGGU INI</p>
+        <p class="promo-overline">RASA YANG LAYAK DICOBA</p>
+        <h2>Basreng<br /><em>daun jeruk.</em></h2>
+        <p class="promo-description">Perpaduan rasa gurih, sentuhan pedas, dan aroma daun jeruk untuk teman santai.</p>
+        <div class="promo-order"><button class="button button-light" data-add="basreng">Tambahkan ke keranjang
+            <span>+</span></button>
+          <div class="promo-price"><strong>Rp 18.000</strong><del>Rp 22.000</del></div>
+        </div>
+        <div class="promo-details"><span>01 <b>Rasa gurih</b></span><span>02 <b>Aroma daun jeruk</b></span><span>03
+            <b>Tekstur renyah</b></span></div>
+      </div>
+      <div class="promo-image" role="img" aria-label="Camilan kering Drysnack tersaji di atas meja"><span
+          class="promo-image-label">DRYSNACK<br />PILIHAN</span></div>
+    </section>
+
+    <section class="story" id="cerita">
+      <div class="story-heading">
+        <p class="eyebrow"><span class="eyebrow-line"></span> TENTANG DRYSNACK</p>
+        <h2>Hal sederhana,<br /><em>rasa yang berarti.</em></h2>
+        <p>Kami percaya camilan yang tepat bisa membuat jeda terasa lebih menyenangkan.</p>
+      </div>
+      <div class="story-card"><span class="story-number">01</span><span class="story-icon">✳</span>
+        <h3>Pilihan rasa</h3>
+        <p>Ada pilihan manis, gurih, dan pedas untuk berbagai selera.</p>
+      </div>
+      <div class="story-card"><span class="story-number">02</span><span class="story-icon">◌</span>
+        <h3>Mudah dinikmati</h3>
+        <p>Teman praktis untuk waktu santai, bekerja, atau berkumpul.</p>
+      </div>
+      <div class="story-card"><span class="story-number">03</span><span class="story-icon">↗</span>
+        <h3>Nyaman dibagikan</h3>
+        <p>Pilih camilan favorit dan nikmati bersama orang terdekat.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-top"><a class="brand brand-footer" href="#top"><span
+          class="brand-mark">D</span><span>drysnack<span class="brand-dot">.</span></span></a>
+      <p>Temani jedamu<br /><em>dengan rasa.</em></p><a href="#menu" class="footer-cta">Lihat koleksi <span>↗</span></a>
+    </div>
+    <div class="footer-bottom"><span>© 2025 Drysnack. Seluruh hak cipta dilindungi.</span><span>Camilan pilihan untuk
+        waktu jeda.</span></div>
+  </footer>
+
+  <div class="drawer-backdrop" id="drawer-backdrop"></div>
+  <aside class="cart-drawer" id="cart-drawer" aria-label="Keranjang belanja" aria-hidden="true">
+    <div class="drawer-head">
+      <div>
+        <p class="eyebrow">PESANAN ANDA</p>
+        <h2>Keranjang <em>belanja</em></h2>
+      </div><button class="close-drawer" aria-label="Tutup keranjang">×</button>
+    </div>
+    <div class="cart-items" id="cart-items"></div>
+    <div class="cart-empty" id="cart-empty"><span>◌</span>
+      <h3>Keranjang masih kosong</h3>
+      <p>Pilih camilan untuk mulai menyusun pesanan.</p><button class="button button-primary close-and-shop">Jelajahi
+        produk <span>↗</span></button>
+    </div>
+    <div class="cart-footer" id="cart-footer">
+      <div class="subtotal"><span>Subtotal</span><strong id="cart-subtotal">Rp 0</strong></div>
+      <p>Biaya pengiriman belum termasuk.</p><button class="button button-primary checkout-trigger">Lanjutkan pemesanan
+        <span>↗</span></button>
+    </div>
+  </aside>
+
+  <dialog class="checkout-dialog" id="checkout-dialog">
+    <button class="dialog-close" aria-label="Tutup formulir">×</button>
+    <p class="eyebrow"><span class="eyebrow-line"></span> RINGKASAN PESANAN</p>
+    <h2>Informasi <em>pengiriman</em></h2>
+    <form id="checkout-form">
+      <label>Nama lengkap<input name="name" required placeholder="Masukkan nama lengkap" /></label>
+      <label>Nomor WhatsApp<input name="phone" type="tel" required placeholder="Contoh: 0812 3456 7890" /></label>
+      <label>Alamat pengiriman<textarea name="address" required rows="3"
+          placeholder="Nama jalan, nomor rumah, kota"></textarea></label>
+      <div class="checkout-total"><span>Total sementara</span><strong id="checkout-total">Rp 0</strong></div>
+      <button class="button button-primary" type="submit">Konfirmasi pesanan <span>↗</span></button>
+    </form>
+    <p class="checkout-note">Formulir ini merupakan simulasi dan belum memproses pembayaran atau pengiriman.</p>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js" defer></script>
+</body>
+
+</html>
